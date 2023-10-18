@@ -1,0 +1,2 @@
+#menampilkan hello
+print("Hello")
