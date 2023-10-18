@@ -7,6 +7,8 @@ Untuk memunculkan kata "Hello" di layar, menggunakan `print("Hello")`
 Seperti ini tampilan Python nya
 </p>
 
-![Gambar 1](image/sslat1.png)
+<img src="image/sslat1.png" width="500">
 
 ## Latihan2
+
+<img src="image/sslat2.png" width="500">
