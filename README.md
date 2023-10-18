@@ -6,7 +6,6 @@
 
 <p> 
 Memunculkan kata "Hello" di layar
-Seperti ini tampilan Python nya
 </p>
 
 <img src="image/sslat1.png" width="500">
