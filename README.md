@@ -11,4 +11,4 @@ Seperti ini tampilan Python nya
 
 ## Latihan2
 
-<img src="image/sslat2.png">
+![Gambar 2](image/sslat2.png)
