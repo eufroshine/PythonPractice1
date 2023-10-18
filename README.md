@@ -3,12 +3,14 @@
 ## Laporan Praktikum
 
 * Latihan 1
-Untuk memunculkan kata "Hello" di layar, menggunakan `print("Hello")`
+memunculkan kata "Hello" di layar
 <p> 
 Seperti ini tampilan Python nya
 </p>
 
 <img src="image/sslat1.png" width="500">
+
+    print("Hello")
 
 * Latihan 2
 
