@@ -50,3 +50,9 @@ Memunculkan kata "Hello" di layar
     b=int(b)
     print("Hasil Penjumlahan {1} + {0} = %d".format(a,b) %(a+b))
     print("Hasil Pembagian {1}/{0} = %d".format(a,b) %(a/b))
+
+***int*** berfungsi untuk mendefinisikan sifat perintah menjadi bilangan bulat.
+***input*** berfungsi untuk memasukan kata atau bilangan yang diinginkan.
+***, n*** dan ***, t*** berfungsi untuk meletakan variabel yang sudah didefinisikan sebelumnya.
+***{0}*** dan ***{1}*** berfungsi untuk memanggil variabel sesuai urutan.
+***%d*** merupakan hasil dengan definisi sesuai pada ***.format***.
