@@ -1,6 +1,6 @@
 # PythonPractice1
 
-## Laporan Praktikum
+## Practice Report
 
 * Latihan 1
 
