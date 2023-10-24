@@ -32,7 +32,7 @@ Memunculkan kata "Hello" di layar
 
 * Latihan 3
 
-<img src="image/sslat3.png" widht="500">
+<img src="image/sslat3.png" widht="300">
 
     #input nilai
     a = input("Masukan Nilai a : ")
